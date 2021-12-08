@@ -1,4 +1,4 @@
-https://imgur.com/a/HJioyKJ
+![alt text](https://imgur.com/a/HJioyKJ)
 
 # WeAreDevs API
 
