@@ -1,10 +1,12 @@
+
+
 # WeAreDevs API
 
-This is a decompiled version of the WeAreDevs API C# exploit api
+This is a decompiled version of the WeAreDevs API C# exploit Api
 
 # Use Of Api
 
-You can open it with visual studio and inspect it,
+You can open it with Visual Studio and inspect it,
 or you can just click on the .cs file on Github.
 
 # Contact
