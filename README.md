@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/zJDwwTB.png)
+![alt text](https://i.imgur.com/zJDwwTB.png) 🟢🟩💚🥗🏡
 
 # WeAreDevs API
 
@@ -13,3 +13,4 @@ or you can just click on the .cs file on Github.
 
 Discord Link - https://discord.gg/6rygAPHSuV
 
+🤗
